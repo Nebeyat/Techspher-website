@@ -1,0 +1,57 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<title>About - Techspher</title>
+<link rel="stylesheet" href="style.css">
+</head>
+
+<body>
+
+<nav>
+  <h2 class="logo">🚀 Techspher</h2>
+  <div class="nav-links">
+    <a href="index.html">Home</a>
+    <a href="information.html">Information</a>
+    <a href="training.html">Training</a>
+    <a href="about.html">About</a>
+    <a href="contact.html">Contact</a>
+  </div>
+</nav>
+
+<section>
+
+<h1>👨 About Techspher</h1>
+
+<p>
+Techspher helps beginners learn technology fields and find the best resources.
+</p>
+
+<div class="card">
+<h2>📊 Stats</h2>
+<p>Fields: <span id="fields">0</span></p>
+<p>Resources: <span id="resources">0</span></p>
+<p>Users: <span id="users">0</span></p>
+</div>
+
+<div class="card">
+<h2>💬 Feedback</h2>
+
+<input type="text" id="name" placeholder="Your name">
+<br><br>
+<textarea id="comment" placeholder="Write feedback"></textarea>
+<br><br>
+<button onclick="addComment()">Submit</button>
+
+</div>
+
+<div class="card">
+<h2>🗨️ Comments</h2>
+<div id="commentList">No comments yet</div>
+</div>
+
+</section>
+
+<script src="script.js"></script>
+</body>
+</html>
