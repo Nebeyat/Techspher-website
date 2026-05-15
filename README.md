@@ -1,2 +1,4 @@
 # Techspher-website
 Techspher is a beginner-friendly technology learning platform that helps users explore tech fields such as Web Development, Cybersecurity, Artificial Intelligence, Blockchain, and Software Development. The website provides technology information, training resources, and recommended learning links using HTML, CSS, and JavaScript.
+  This website is designed to help new learners who feel confused about what to study or how to solve problems in their learning field.
+ My goal is to make learning easier for beginners by simplifying complex topics,  also recommends free learning resources and websites so users can continue learning without cost.
